@@ -1,0 +1,213 @@
+{
+  "heading": "Singular and Plural.",
+  "topics": [
+    {
+      "heading": "Singular and Plural",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "Which is singular?",
+            "options": [
+                "Leaves",
+                "Trees",
+                "Branch"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 2,
+            "question": "Which is plural?",
+            "options": [
+                "Goose",
+                "Moose",
+                "Geese"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 3,
+            "question": "One fox, two ______.",
+            "options": [
+                "foxs",
+                "foxes",
+                "fox"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 4,
+            "question": "One monster, two ______.",
+            "options": [
+                "monsters",
+                "monster",
+                "monsteres"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 5,
+            "question": "My monster has one eye, but some monsters have many ______.",
+            "options": [
+                "eyes",
+                "eye",
+                "eyez"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 6,
+            "question": "The monster has one arm, but another has six ______.",
+            "options": [
+                "armes",
+                "arms",
+                "armz"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 7,
+            "question": "One colour, many ______.",
+            "options": [
+                "colour",
+                "coloures",
+                "colours"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 8,
+            "question": "Which is plural?",
+            "options": [
+                "Pizza",
+                "Slice",
+                "Pizzas"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 9,
+            "question": "One big teacup, two big ______.",
+            "options": [
+                "teacup",
+                "teacups",
+                "teacupes"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 10,
+            "question": "The monster has one special power, but some have many ______.",
+            "options": [
+                "special powers",
+                "special poweres",
+                "special powerz"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 11,
+            "question": "Fill in the blank:<br> One funny shape, many funny ______.",
+            "options": [
+                "shape",
+                "shapes",
+                "shapies"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 12,
+            "question": "Which is singular?",
+            "options": [
+                "Features",
+                "Arms",
+                "Silly"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 13,
+            "question": "One adventure, many ______.",
+            "options": [
+                "adventure",
+                "adventures",
+                "adventurez"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 14,
+            "question": "Fill in the blank:<br> One _____, many stories.",
+            "options": [
+                "story",
+                "storey",
+                "storie"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 15,
+            "question": "One big letter, many big ______.",
+            "options": [
+                "letters",
+                "letter",
+                "letteres"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 16,
+            "question": "Which is plural?",
+            "options": [
+                "Game",
+                "Favourite",
+                "Powers"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 17,
+            "question": "The monster has one nose, but some have three ______.",
+            "options": [
+                "nose",
+                "noses",
+                "nosees"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 18,
+            "question": "Which is singular?",
+            "options": [
+                "Pet",
+                "Monsters",
+                "Eyes"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 19,
+            "question": "Fill in the blank:<br> One _____, many children.",
+            "options": [
+                "child",
+                "children",
+                "childs"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 20,
+            "question": "Fill in the blank:<br> One monster _____, many monsters eat.",
+            "options": [
+                "eates",
+                "eats",
+                "eaten"
+            ],
+            "answer": 1
+        }
+    ]
+    
+    
+    
+    }
+  ]
+}
